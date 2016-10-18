@@ -1,0 +1,11 @@
+br\com\edumelo\primer\ws\client\SayHelloResponse.class
+br\com\edumelo\primer\ws\client\ObjectFactory.class
+br\com\edumelo\primer\ws\client\package-info.class
+br\com\edumelo\primer\ws\client\SayHelloToNameResponse.class
+br\com\edumelo\primer\ws\client\SayHelloToNames.class
+br\com\edumelo\primer\ws\client\SayHello.class
+br\com\edumelo\primer\ws\client\HelloWorldService.class
+br\com\edumelo\primer\ws\client\HelloWorldService_Service.class
+br\com\edumelo\primer\ws\client\SayHelloToNamesResponse.class
+br\com\edumelo\education\primer\java_education_primer_wsimport\App.class
+br\com\edumelo\primer\ws\client\SayHelloToName.class
